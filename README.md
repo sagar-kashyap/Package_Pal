@@ -10,7 +10,7 @@ After this click on the Find Package button and the app will provide you a list 
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  Node.js, Gemini API key
 
 
 1. Install dependencies:
